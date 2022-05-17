@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Analysis
-description: completed by Edwin
+title: New Post
+description: completed by Tunni
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
