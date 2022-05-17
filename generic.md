@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Analysis
 description: completed by Edwin
 image: assets/images/pic11.jpg
