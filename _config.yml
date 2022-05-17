@@ -1,8 +1,8 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
+title: Reminiscence
+subtitle: by team02
 email: tchiang3@mail.sfsu.edu
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+description: A place where stories are shared.
 baseurl: "/reminiscence" # the subpath of your site, e.g. /blog
 url: 
 author:
