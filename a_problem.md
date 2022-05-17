@@ -12,7 +12,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>"Problem Title"</h1>
+			<h1>Lack of Empathy</h1>
 		</header>
 
 <!-- Content -->
@@ -23,7 +23,6 @@ nav-menu: true
 	<div class="6u 12u$(small)">
 		<h3>Why we should care?</h3>
 		<p>In today’s time, people with disabilities require the support of others in order to function in our society. However, there are a majority of people that do not wish to help in this regard. A lot of people focus on themselves and look down upon those that require the help of others. For example, when one comes into power they want those that can be independent and can create a good environment with their surroundings. People tend to not act like their usual selves around people with disability and in turn could make those with disability feel bad about themselves. As a result, there are many negative views upon those with disabilities and that’s the reason it is hard for them to make genuine friends that do not have a disability.</p>
-		<br/>
 		<p>Currently, there are many disability services for people with disabilities. For example, people with disabilities have access to special parking and other benefits. Another example more specific to students would be the accommodations when taking courses. Students with disabilities can often talk to the professor about their situation and perhaps the professor may be willing to provide them with more time for assignments or exams. There are also many applications such as the windows ease of access, and phones that provide ease of access. These are just some examples of what we think are positive to the situation. Our technology would further improve the situation by creating a sense of empathy for people with disabilities at SFSU.</p>
 	</div>
 	<div class="6u$ 12u$(small)">
