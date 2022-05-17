@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Generic
-description: Lorem ipsum dolor est
+layout: page
+title: Analysis
+description: completed by Edwin
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
