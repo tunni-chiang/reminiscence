@@ -22,12 +22,11 @@ nav-menu: true
 <br/>
 		
 <h2 id="content">How did we approach the problem?</h2>
-<p>We created a few mockup designs for our website, where we create posts to increase the empathy towards people with disabilities. To gather stories that we want to share, we reached out to users in various ways. We created a qualitative survey that asks general open-response questions like how are you, and also asked them to share their stories that have been meaningful to them. We also asked them for feedback regarding how to increase the empathy on SFSU’s campus. We allowed them to input their email and participate in a follow up if they wanted to. We are a bit unsure of how to address the problem of accessibility for our survey and website, but we recognize the problem.
+<p>We created a few mockup designs for our website, where we create posts to increase the empathy towards people with disabilities. To gather stories that we want to share, we reached out to users in various ways. We created a qualitative survey that asks general open-response questions like how are you, and also asked them to share their stories that have been meaningful to them. We also asked them for feedback regarding how to increase the empathy on SFSU’s campus. We allowed them to input their email and participate in a follow up if they wanted to. We are a bit unsure of how to address the problem of accessibility for our survey and website, but we recognize the problem.</p>
 
 <br/>
 	
-We were looking for target users via various connections. We contacted professors who we knew from current/previous classes to inform them to get responses from targeted users. We also reached out to DPRC(the organization that serves students with disabilities) and we expected the large number of people to respond(which did not happen due to privacy issues). We created a flier and posted it on the library bulletin board. We also published our survey in discord servers that we were joined to get attention from students with disabilities.
-</p>
+<p>We were looking for target users via various connections. We contacted professors who we knew from current/previous classes to inform them to get responses from targeted users. We also reached out to DPRC(the organization that serves students with disabilities) and we expected the large number of people to respond(which did not happen due to privacy issues). We created a flier and posted it on the library bulletin board. We also published our survey in discord servers that we were joined to get attention from students with disabilities.</p>
 		
 <div class="row">
 	<div class="6u 12u$(small)">
