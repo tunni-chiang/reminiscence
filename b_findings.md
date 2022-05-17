@@ -39,13 +39,12 @@ nav-menu: true
 </div>
 		
 <div class="row">
-	<div class="6u$ 12u$(small)">
-		<h3>Picture</h3>
-	</div>
-	
 	<div class="6u 12u$(small)">
 		<h3>Feel being left out</h3>
 		<p> Some participants express their satisfaction with the services provided by DPRC such as room accommodation and space for exam takers, shown in the graphs below. Some participants also feel they are being left out when they are participating in school activities, but the majority don’t. This means that there are some flaws that can be improved upon at SFSU for the non-DPRC community, and for the DPRC community, SFSU is doing good, but can still improve.</p>
+	</div>
+	<div class="6u$ 12u$(small)">
+		<h3>Picture</h3>
 	</div>
 </div>
 		
@@ -61,14 +60,13 @@ nav-menu: true
 </div>
 		
 <div class="row">
-	<div class="6u$ 12u$(small)">
-		<h3>Picture</h3>
-	</div>
-	
 	<div class="6u 12u$(small)">
 		<h3>Is our campus caring?</h3>
 		<p> Participants also give short suggestions on the improvement of the school community to support students with disabilities. When asked to what extent do you feel our community cares for people with disabilities,  we only received neutral, agree and strongly agree responses.</p>
 		<p>Also, a majority of the non-DPRC respondents selected neutral when asked how often have you helped or seen others help people with disabilities in and around the campus? This indicated that there is room for improvement to support students with disabilities at SFSU.. </p>
+	</div>
+	<div class="6u$ 12u$(small)">
+		<h3>Picture</h3>
 	</div>
 </div>
 		
