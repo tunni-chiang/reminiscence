@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Problem
+title: New Page
 image: assets/images/pic01.jpg
 nav-menu: true
 ---
