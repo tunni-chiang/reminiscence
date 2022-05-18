@@ -27,7 +27,9 @@ nav-menu: true
 		<img src="assets/images/EdwinImages/im6.png">
 	</div>
 </div>
+	
 		
+</br>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Theme page</h3>
@@ -37,7 +39,9 @@ nav-menu: true
 		<img src="assets/images/EdwinImages/im7.png">
 	</div>
 </div>	
-		
+	
+	
+</br>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Story page</h3>
@@ -48,6 +52,8 @@ nav-menu: true
 	</div>
 </div>	
 		
+	
+</br>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Relevant information page</h3>
@@ -58,7 +64,9 @@ nav-menu: true
 		<img src="assets/images/EdwinImages/im9.png">
 	</div>
 </div>
-		
+	
+	
+</br>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>About page</h3>
