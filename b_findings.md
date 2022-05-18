@@ -94,7 +94,7 @@ nav-menu: true
             <div class="inner">
                 <p>Check out our affinity diagram, where all the anonymised respondes are!</p>
                 <ul class="actions">
-                    <li><a href="[https://hlam9.github.io/CSC642-Project](https://edwin172734.invisionapp.com/freehand/CSC-842-Affinity-Diagram-Ialzwh5mB?dsid_h=774b48d6d1c3d2238e4258a05a72e5e4ca0edb95ed5b4c620f2711176f8d36b0&uid_h=c00f7d05f3ca9d02c0504ea704a92fac60b53f3d2e43d0183831eacbe9a88fef)" class="button next">Affinity Diagram</a></li>
+                    <li><a href="[https://hlam9.github.io/CSC642-Project](https://edwin172734.invisionapp.com/freehand/CSC-842-Affinity-Diagram-Ialzwh5mB?dsid_h=774b48d6d1c3d2238e4258a05a72e5e4ca0edb95ed5b4c620f2711176f8d36b0&uid_h=c00f7d05f3ca9d02c0504ea704a92fac60b53f3d2e43d0183831eacbe9a88fef)" class="button next"  target="_blank">Affinity Diagram</a></li>
                 </ul>
             </div>
 </section>
