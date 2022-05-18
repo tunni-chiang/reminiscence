@@ -28,10 +28,16 @@ nav-menu: true
 <h2 id="content">Showing Author Name</h2>
 <p>Something else that was iterated was adding the author name to each of the posts to allow users to recognize those who have earned themselves a name. With the original anonymous supplier of information it would be hard to tell whether some posts are accurate or fake. As a result, those who can establish credibility will be easily trusted by the users.</p>
 <img src="assets/images/trumen/trumen-3.png">
-
-<h2 id="content">Hover Icons</h2>
-<p>Another important iteration that was made was our option to hover icons and display which disability it represents. Despite our  team learning more about those with disabilities, not even we can identify which icons mean which disability. As a result, we found it important and informative for our users to be able to know which icon means which disability when they hover them.</p>
-<img src="assets/images/trumen/trumen-4.png">
+		
+<div class="row">
+	<div class="6u 12u$(small)">
+		<h2 id="content">Hover Icons</h2>
+		<p>Another important iteration that was made was our option to hover icons and display which disability it represents. Despite our  team learning more about those with disabilities, not even we can identify which icons mean which disability. As a result, we found it important and informative for our users to be able to know which icon means which disability when they hover them.</p>
+	</div>
+	<div class="6u$ 12u$(small)">
+		<img src="assets/images/trumen/trumen-4.png">
+	</div>
+</div>
 		
 <h2 id="content">Search Bar</h2>
 <p>The last iterations that were implemented was the color design and the search bar. We found that our original black and white to be very gloomy as our color choices. By using brighter colors it will create a more welcoming environment for users to be in. Brighter colors also prove to be more inviting. A search bar is very much needed as posts can get lost or harder to find as time goes on. With the search bar feature, users will be able to find exactly what they need or are interested in. These new key features definitely boosted our prototype.</p>
