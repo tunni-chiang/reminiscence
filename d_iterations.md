@@ -65,6 +65,7 @@ nav-menu: true
 		<p>The last iterations that were implemented was the color design and the search bar. We found that our original black and white to be very gloomy as our color choices. By using brighter colors it will create a more welcoming environment for users to be in. Brighter colors also prove to be more inviting. A search bar is very much needed as posts can get lost or harder to find as time goes on. With the search bar feature, users will be able to find exactly what they need or are interested in. These new key features definitely boosted our prototype.</p>
 	</div>
 	<div class="6u$ 12u$(small)">
+		<br>
 		<img src="assets/images/trumen/trumen-5.png">
 	</div>
 </div>
