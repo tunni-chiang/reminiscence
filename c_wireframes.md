@@ -29,7 +29,7 @@ nav-menu: true
 </div>
 	
 		
-</br>
+<br>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Theme page</h3>
@@ -41,7 +41,7 @@ nav-menu: true
 </div>	
 	
 	
-</br>
+<br>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Story page</h3>
@@ -53,7 +53,7 @@ nav-menu: true
 </div>	
 		
 	
-</br>
+<br>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Relevant information page</h3>
@@ -66,7 +66,7 @@ nav-menu: true
 </div>
 	
 	
-</br>
+<br>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>About page</h3>
