@@ -23,7 +23,7 @@ nav-menu: true
 	</div>
 	<div class="6u$ 12u$(small)">
 		<br>
-		<img src="assets/images/trumen/trumen-1.png">
+		<img src="assets/images/truman/truman1.png">
 	</div>
 </div>
 		
@@ -34,7 +34,7 @@ nav-menu: true
 	</div>
 	<div class="6u$ 12u$(small)">
 		<br>
-		<img src="assets/images/trumen/trumen-2.png">
+		<img src="assets/images/truman/truman2.png">
 	</div>
 </div>
 		
@@ -45,7 +45,7 @@ nav-menu: true
 	</div>
 	<div class="6u$ 12u$(small)">
 		<br>
-		<img src="assets/images/trumen/trumen-3.png">
+		<img src="assets/images/truman/truman3.png">
 	</div>
 </div>
 		
@@ -56,7 +56,7 @@ nav-menu: true
 	</div>
 	<div class="6u$ 12u$(small)">
 		<br>
-		<img style="height:500px; margin-left: 130px;" src="assets/images/trumen/trumen-4.png">
+		<img style="height:500px; margin-left: 130px;" src="assets/images/truman/truman4.png">
 	</div>
 </div>
 		
@@ -67,7 +67,7 @@ nav-menu: true
 	</div>
 	<div class="6u$ 12u$(small)">
 		<br>
-		<img src="assets/images/trumen/trumen-5.png">
+		<img src="assets/images/truman/truman5.png">
 	</div>
 </div>
 		
