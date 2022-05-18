@@ -56,7 +56,7 @@ nav-menu: true
 	</div>
 	<div class="6u$ 12u$(small)">
 		<br>
-		<img style="height:300px; margin: 0 auto;" src="assets/images/trumen/trumen-4.png">
+		<img style="height:400px; margin-left: 125px;" src="assets/images/trumen/trumen-4.png">
 	</div>
 </div>
 		
