@@ -22,6 +22,7 @@ nav-menu: true
 		<p>One of the iterations we made was adding voice input in order to make our application user friendly. It is important that our application is user friendly because its needs to include everyone in our site and leave no man left behind. This will specifically target users such as blindness or have a hard time moving their bodys. You can suggest whether to move on to another page or list the name of the post you want to hear.</p>
 	</div>
 	<div class="6u$ 12u$(small)">
+		<br>
 		<img src="assets/images/trumen/trumen-1.png">
 	</div>
 </div>
@@ -32,6 +33,7 @@ nav-menu: true
 		<p>Another iteration that was made was the navbar for our themes. Originally we had it only on the homepage, but that can make it frustrating and not user friendly for users to go back to the homepage every time they want to change the theme. As a result we created another navbar that can switch easily between the theme during any part of the website.</p>
 	</div>
 	<div class="6u$ 12u$(small)">
+		<br>
 		<img src="assets/images/trumen/trumen-2.png">
 	</div>
 </div>
@@ -42,7 +44,8 @@ nav-menu: true
 		<p>Something else that was iterated was adding the author name to each of the posts to allow users to recognize those who have earned themselves a name. With the original anonymous supplier of information it would be hard to tell whether some posts are accurate or fake. As a result, those who can establish credibility will be easily trusted by the users.</p>
 	</div>
 	<div class="6u$ 12u$(small)">
-		<img src="assets/images/trumen/trumen-3.png">
+		<br>
+		<img style="height:100px;" src="assets/images/trumen/trumen-3.png">
 	</div>
 </div>
 		
