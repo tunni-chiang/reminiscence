@@ -38,7 +38,7 @@ nav-menu: true
 		<p>Our analyser. Analyze the data from scaling questions, transform them into graphs, present the findings.</p>
 	</div>
 	<div class="6u 12u$(small)">
-		<h3>Trumen</h3>
+		<h3>Truman</h3>
 		<p>Our organizer. Document our findings, issues, and ideas to check if team complete the iterations.</p>
 	</div>
 </div>
