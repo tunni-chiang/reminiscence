@@ -29,7 +29,7 @@ nav-menu: true
 		
 <h2 id="content">Results for Scaling Questions</h2>
 
-</br>
+<br>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Little background of our participants</h3>
@@ -41,7 +41,7 @@ nav-menu: true
 </div>
 
 	
-</br>
+<br>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Feel being left out</h3>
@@ -54,7 +54,7 @@ nav-menu: true
 </div>
 	
 	
-</br>
+<br>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Online learning experience</h3>
@@ -67,7 +67,7 @@ nav-menu: true
 </div>
 	
 	
-</br>
+<br>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Is our campus caring?</h3>
