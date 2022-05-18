@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Wireframes
-image: assets/images/pic01.jpg
+image: assets/images/Wireframe.webp
 nav-menu: true
 ---
 
