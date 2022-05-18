@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Iterations
-image: assets/images/pic01.jpg
+image: assets/images/Iteration.webp
 nav-menu: true
 ---
 
