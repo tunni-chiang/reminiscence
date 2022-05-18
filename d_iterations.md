@@ -55,7 +55,7 @@ nav-menu: true
 		<p>Another important iteration that was made was our option to hover icons and display which disability it represents. Despite our  team learning more about those with disabilities, not even we can identify which icons mean which disability. As a result, we found it important and informative for our users to be able to know which icon means which disability when they hover them.</p>
 	</div>
 	<div class="6u$ 12u$(small)">
-		<img style="height:300px;" src="assets/images/trumen/trumen-4.png">
+		<img style="height:500px; justify-content: center;" src="assets/images/trumen/trumen-4.png">
 	</div>
 </div>
 		
