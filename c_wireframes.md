@@ -24,7 +24,6 @@ nav-menu: true
 </p>
 	</div>
 	<div class="6u$ 12u$(small)">
-		<h3>Picture</h3>
 		<img src="assets/images/EdwinImages/im6.png">
 	</div>
 </div>
@@ -35,7 +34,6 @@ nav-menu: true
 		<p>This is a good design, because it contains stories that come directly from the affected audience, and it provides additional information regarding the theme that the user has chosen to review. This is also very easy to use in the sense that the user only has two different locations from where to make their selection, either choose a story to view, or choose other relevant information. Navigation elements will be on the top to ensure that users can move around.</p>
 	</div>
 	<div class="6u$ 12u$(small)">
-		<h3>Picture</h3>
 		<img src="assets/images/EdwinImages/im7.png">
 	</div>
 </div>	
@@ -46,7 +44,6 @@ nav-menu: true
 		<p>This screen is a good design, because it only shows the story that the user wants to review, therefore making a direct line of communication between the user of our platform, and the individual sharing their story. This design contains only a title/image, and the story. This will help in making the user engaged. Navigation elements will be on the top to ensure that users can move around.</p>
 	</div>
 	<div class="6u$ 12u$(small)">
-		<h3>Picture</h3>
 		<img src="assets/images/EdwinImages/im8.png">
 	</div>
 </div>	
@@ -68,7 +65,6 @@ nav-menu: true
 		<p>This is a good design because it presents the user options that represent who we are as a team, and also what we intend to do, which is good, because the users can inform themselves about what they will experience in our app. This design is also good, because we can generate more stories based on people that communicate with us, and also improve our app based on feedback. Navigation elements will be on the top to ensure that users can move around.</p>
 	</div>
 	<div class="6u$ 12u$(small)">
-		<h3>Picture</h3>
 		<img src="assets/images/EdwinImages/im10.png">
 	</div>
 </div>
