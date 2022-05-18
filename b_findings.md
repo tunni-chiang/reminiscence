@@ -1,7 +1,7 @@
 ---
 layout: page
 title: User Research
-image: assets/images/pic01.jpg
+image: assets/images/User-Research.png
 nav-menu: true
 ---
 
