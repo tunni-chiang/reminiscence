@@ -36,6 +36,7 @@ nav-menu: true
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>Picture</h3>
+		<img src="assets/images/EdwinImages/im1.png">
 	</div>
 </div>
 		
@@ -46,6 +47,8 @@ nav-menu: true
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>Picture</h3>
+		<img src="assets/images/EdwinImages/im2.png">
+		<img src="assets/images/EdwinImages/im3.png">
 	</div>
 </div>
 		
@@ -57,6 +60,7 @@ nav-menu: true
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>Picture</h3>
+		<img src="assets/images/EdwinImages/im12.png">
 	</div>
 </div>
 		
@@ -68,6 +72,8 @@ nav-menu: true
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>Picture</h3>
+		<img src="assets/images/EdwinImages/im12.png">
+		<img src="assets/images/EdwinImages/im5.png">
 	</div>
 </div>
 		
