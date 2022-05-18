@@ -22,23 +22,23 @@ nav-menu: true
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Edwin</h3>
-		<p>to be continue...</p>
-	</div>
-	<div class="6u 12u$(small)">
-		<h3>Henry</h3>
-		<p>to be continue...</p>
+		<p>Our team lead. Arrange meetings, assign tasks, make sure team is on track.</p>
 	</div>
 	<div class="6u 12u$(small)">
 		<h3>Tunni</h3>
-		<p>to be continue...</p>
+		<p>Our designer. Mostly focuses on desiging interface and put the design into our figma.</p>
+	</div>
+	<div class="6u 12u$(small)">
+		<h3>Henry</h3>
+		<p>Our researcher. Create survey form for our user research and collect the datas.</p>
 	</div>
 	<div class="6u 12u$(small)">
 		<h3>William</h3>
-		<p>to be continue...</p>
+		<p>Our analyser. Analyze the data from scaling questions, transform them into graphs, present the findings.</p>
 	</div>
 	<div class="6u 12u$(small)">
 		<h3>Trumen</h3>
-		<p>to be continue...</p>
+		<p>Our organizer. Document our findings, issues, and ideas to check if team complete the iterations.</p>
 	</div>
 </div>
 
