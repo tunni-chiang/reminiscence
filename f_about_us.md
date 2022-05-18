@@ -23,15 +23,15 @@ nav-menu: true
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Edwin</h3>
-		<p>Our team lead. Arrange meetings, assign tasks, make sure team is on track.</p>
+		<p>Our team lead. Arrange meetings, assign tasks, make sure the team is on track.</p>
 	</div>
 	<div class="6u 12u$(small)">
 		<h3>Tunni</h3>
-		<p>Our designer. Mostly focuses on desiging interface and put the design into our figma.</p>
+		<p>Our designer. Mostly focuses on designing interfaces and putting the design into our figma.</p>
 	</div>
 	<div class="6u 12u$(small)">
 		<h3>Henry</h3>
-		<p>Our researcher. Create survey form for our user research and collect the datas.</p>
+		<p>Our researcher. Create survey forms for our user research and collect the datas.</p>
 	</div>
 	<div class="6u 12u$(small)">
 		<h3>William</h3>
@@ -39,7 +39,7 @@ nav-menu: true
 	</div>
 	<div class="6u 12u$(small)">
 		<h3>Truman</h3>
-		<p>Our organizer. Document our findings, issues, and ideas to check if team complete the iterations.</p>
+		<p>Our organizer. Document our findings, issues, and ideas to check if the team completes the iterations.</p>
 	</div>
 </div>
 
