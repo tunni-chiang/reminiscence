@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Problem
-image: assets/images/pic01.jpg
+image: assets/images/Problem-Solving.png
 nav-menu: true
 ---
 
