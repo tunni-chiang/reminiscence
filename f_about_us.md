@@ -16,6 +16,7 @@ nav-menu: true
 		</header>
 
 <!-- Content -->
+		<img src="assets/images/Screen Shot 2022-05-18 at 3.30.41 PM.png">
 <h2 id="content">Who we are</h2>
 <p>We are students from San Francisco State University, who are majoring in Computer Science and are taking Human Computer Interaction course.</p>
 		
