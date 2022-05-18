@@ -22,6 +22,7 @@ nav-menu: true
 		<p>For blind and visually impaired users, navigation is a challenge. As they can’t use a mouse to browse the website, we have to incorporate keyboard navigation into our future design.</p>
 	</div>
 	<div class="6u$ 12u$(small)">
+		<br>
 		<img src="assets/images/Screen_Shot_2022-05-18_at_9.39.08_AM.PNG">
 	</div>
 </div>
@@ -35,6 +36,7 @@ nav-menu: true
 		<p>The most common type of disability by far is cognitive disabilities. There are different kinds of cognitive disabilities and variations within those different kinds. Those who have cognitive disabilities may experience limited comprehension, may be overwhelmed by complex environments, may experience difficulty reading, or may experience attention deficits. Though web accessibility standards and guidelines do not completely address cognitive disabilities, there are some design considerations we can keep in mind to enhance web experiences for people with cognitive disabilities.</p>
 	</div>
 	<div class="6u$ 12u$(small)">
+		<br>
 		<img src="assets/images/Screen Shot 2022-05-18 at 2.50.44 PM.png">
 	</div>
 </div>
