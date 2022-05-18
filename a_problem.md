@@ -16,6 +16,7 @@ nav-menu: true
 		</header>
 
 <!-- Content -->
+<img src="assets/images/Disability-Rates.png">
 <h2 id="content">What is the problem?</h2>
 <p>Nowadays, there’s more and more resources and designs that aim to provide a more convenient life for people with disabilities, especially in the technology field. Many inventions help them to have easier access to our community. Although we create these tools for them, there’s still barriers between the society and the people with disabilities. After having some research, we found out one of the attributes to this problem is lack of empathy, and with these barriers, even if we provide the tools which improve their physical life, they might still feel excluded from the community. Since technology is the easiest and fastest way to get people’s attention, we hope to use technology to spread positivity to other people and wish to increase the empathy by sharing their (people with disabilities) stories of how other people or the community support them. We think empathy is something that can be spreaded, so if we gather more inspiring stories and share them with a smaller range of communities such as SFSU campus, we might be able to increase the empathy within the small community, then it would be easier to keep spreading it to larger communities.</p>
 		
