@@ -36,25 +36,23 @@ nav-menu: true
 		<p>A total of fourteen people participated in the survey. Few questions have less than eleven responses. There are less participants who are not interested or not willing to share their opinions. Out of all our respondents 28.6% were part of DPRC or have received help from them as shown in the pie chart below (note, our survey asked different questions for respondents who are part of DPRC or received help from them(4), and the ones that are not(10)</p>
 	</div>
 	<div class="6u$ 12u$(small)">
+		<br>
 		<img src="assets/images/EdwinImages/im1.png">
 	</div>
 </div>
 
-	
-<br>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Feel being left out</h3>
 		<p> Some participants express their satisfaction with the services provided by DPRC such as room accommodation and space for exam takers, shown in the graphs below. Some participants also feel they are being left out when they are participating in school activities, but the majority don’t. This means that there are some flaws that can be improved upon at SFSU for the non-DPRC community, and for the DPRC community, SFSU is doing good, but can still improve.</p>
 	</div>
 	<div class="6u$ 12u$(small)">
+		<br>
 		<img src="assets/images/EdwinImages/im2.png">
 		<img src="assets/images/EdwinImages/im3.png">
 	</div>
 </div>
 	
-	
-<br>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Online learning experience</h3>
@@ -62,12 +60,11 @@ nav-menu: true
 </p>
 	</div>
 	<div class="6u$ 12u$(small)">
+		<br>
 		<img src="assets/images/EdwinImages/im12.png">
 	</div>
 </div>
 	
-	
-<br>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Is our campus caring?</h3>
@@ -75,6 +72,7 @@ nav-menu: true
 		<p>Also, a majority of the non-DPRC respondents selected neutral when asked how often have you helped or seen others help people with disabilities in and around the campus? This indicated that there is room for improvement to support students with disabilities at SFSU.. </p>
 	</div>
 	<div class="6u$ 12u$(small)">
+		<br>
 		<img src="assets/images/EdwinImages/im12.png">
 		<img src="assets/images/EdwinImages/im5.png">
 	</div>
