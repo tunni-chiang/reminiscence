@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Future Design
-image: assets/images/pic01.jpg
+image: assets/images/Idea.webp
 nav-menu: true
 ---
 
