@@ -85,12 +85,18 @@ nav-menu: true
 <h2 id="content">Conclusion</h2>
 <p>It’s interesting to see some students (who are not from DPRC) have strong opinions about how to improve the community. They wish the community to be well-educated and they do care about how the people with disabilities feel. It’s expected to see that the majority of students agree that online learning can be difficult for them and if we have some resources to help them make connections before coming back to college, it would be easier to get involved in school.</p>
 <p>This finding informs us on relevant topics that surround experiences of people with disabilities on campus, and gives us information on what the SFSU community offers, and also what it lacks surrounding students with disabilities. All of our findings inform what we can design in the way that it provides information that we can showcase in our platform, and also gives us candidates that are willing to share their stories in our platform. The different information that we collected informs us that there are different themes, therefore we can design a system that has different sections for the different themes, and group our stories accordingly. As we collect new information/data/stories, our team would have to do a re-evaluation of the system, and update the themes as they change over time. We will have different sections within our platform that contain stories and information regarding each of the main themes that we found: Education and disabilities, On-campus activities and resources, and the hits and misses provided by the DPRC.</p>
-<p>The direction that we will move forward in designing is beginning the implementation of the UI of our platform by creating sketches and storyboards, and we will look for locations to showcase our platform. Our platform will be very simple to use, because it will contain only a few frames, which will be reused for different data points, which will help the user navigate our app. This structure will also make the user remember where everything is located. A structure of our platform will be provided in the following sketches.</p>
-
-<p>Check out our &nbsp;&nbsp; <a href="https://edwin172734.invisionapp.com/freehand/CSC-842-Affinity-Diagram-Ialzwh5mB?dsid_h=774b48d6d1c3d2238e4258a05a72e5e4ca0edb95ed5b4c620f2711176f8d36b0&uid_h=c00f7d05f3ca9d02c0504ea704a92fac60b53f3d2e43d0183831eacbe9a88fef" class="button" target="_blank">Affinity Diagram</a> &nbsp;&nbsp; where all the anonymised responded are!</p>
-
+<p>The direction that we will move forward in designing is beginning the implementation of the UI of our platform by creating sketches and storyboards, and we will look for locations to showcase our platform. Our platform will be very simple to use, because it will contain only a few frames, which will be reused for different data points, which will help the user navigate our app. This structure will also make the user remember where everything is located. A structure of our platform will be provided in the following sketches.</p>	
 
 </div>
+</section>
+	
+<section id="two">
+            <div class="inner">
+                <p>Check out our affinity diagram, where all the anonymised respondes are!</p>
+                <ul class="actions">
+                    <li><a href="[https://hlam9.github.io/CSC642-Project](https://edwin172734.invisionapp.com/freehand/CSC-842-Affinity-Diagram-Ialzwh5mB?dsid_h=774b48d6d1c3d2238e4258a05a72e5e4ca0edb95ed5b4c620f2711176f8d36b0&uid_h=c00f7d05f3ca9d02c0504ea704a92fac60b53f3d2e43d0183831eacbe9a88fef)" class="button next">Affinity Diagram</a></li>
+                </ul>
+            </div>
 </section>
 
 </div>
