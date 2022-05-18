@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Wireframes & Prototype
+title: Wireframes
 image: assets/images/pic01.jpg
 nav-menu: true
 ---
@@ -12,11 +12,10 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Our Designs</h1>
+			<h1>Our Wireframes</h1>
 		</header>
 
 <!-- Content -->
-<h2 id="content">Wireframes</h2>
 		
 <div class="row">
 	<div class="6u 12u$(small)">
